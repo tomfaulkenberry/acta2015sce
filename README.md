@@ -1,5 +1,5 @@
 # acta2015sce
-Data and analysis files for Faulkenberry, Cruise, Lavro, & Shaki (in press), to appear in Acta Psychologica
+Data and analysis files for Faulkenberry, Cruise, Lavro, & Shaki (2016), published in Acta Psychologica
 
 manuscript-11-20-2015.pdf --> PDF of accepted manuscript, version as of 11/20/2015
 analysisExp1.R --> R script for performing analyses reported in Experiment 1<br>
