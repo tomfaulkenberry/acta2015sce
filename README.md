@@ -11,3 +11,5 @@ leftTrajectoriesExp2.csv --> CSV file of raw data for trials in Experiment 2 (le
 rightTrajectoriesExp2.csv --> CSV file of raw data for trials in Experiment 2 (rightward trajectories)
 leftTrajectoriesExp3.csv --> CSV file of raw data for trials in Experiment 3 (leftward trajectories)
 rightTrajectoriesExp3.csv --> CSV file of raw data for trials in Experiment 3 (rightward trajectories)
+
+Note:  all raw data (MT files from MouseTracker) are contained in the rawData folder
